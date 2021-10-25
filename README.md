@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doggedben000
+- 👋 Hi, I’m @Doggedben000 [Benjamin]
 - 👀 I’m interested in data science, machine learning and artificial intelligence
 - 🌱 I’m currently learning python and hyperRESEARCH for qualitative data analysis
 - 💞️ I’m looking to collaborate on various IT projects especially in the area of data science and data analytics to boost my experience
